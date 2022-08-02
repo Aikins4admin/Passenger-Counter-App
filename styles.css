@@ -13,12 +13,6 @@ body {
     overflow: hidden;
 }
 
-/*body img {
-    height: 100%;
-    width: 100%;
-    object-fit: contain;
-}*/
-
 body .container {
     border: 2px solid pink;
     color: white;
